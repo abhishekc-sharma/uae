@@ -1,0 +1,1 @@
+if iszero(succ(succ(0))) then 0 else succ(0)
